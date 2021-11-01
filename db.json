@@ -1,8 +1,28 @@
 {
   "pab_reekspor": [
     {
-      "nobarang": 1,
-      "tanggalbarang": "Post 1"
+      "nobarang": 1001,
+      "tanggalbarang": "12-11-2021",
+      "namapemb":"Kang Kabayan",
+      "namapen": "Nyi Iteng",
+      "alampen": "Kebayoran Lama",
+      "stater":"OK",
+    },
+    {
+      "nobarang": 1002,
+      "tanggalbarang": "13-11-2021",
+      "namapemb":"Unyil",
+      "namapen": "Pak Raden",
+      "alampen": "Kebagusan",
+      "stater":"OK",
+    },
+    {
+      "nobarang": 1003,
+      "tanggalbarang": "14-11-2021",
+      "namapemb":"Kasarung",
+      "namapen": "Purbasari",
+      "alampen": "Tanah Tinggi",
+      "stater":"OK",
     }
   ],
   "comments": [
