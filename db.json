@@ -25,6 +25,35 @@
       "stater":"OK"
     }
   ],
+  "pab_peng_barexcn": [
+    {
+      "nobarang": 1001,
+      "idpemberitahu": 1001,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "123456789",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 478293",
+    },
+    {
+      "nobarang": 1002,
+      "idpemberitahu": 1001,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "34930493934",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 83923",
+    },
+    {
+      "nobarang": 1003,
+      "idpemberitahu": 1001,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "2394873289",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 3402344",
+    }
+  ],
   "comments": [
     {
       "id": 1,
