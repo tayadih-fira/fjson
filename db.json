@@ -1,4 +1,46 @@
 {
+  "pab_nip": [
+    {
+      "nip": 999999,
+      "nama": "Erik Latupono"
+    },
+    {
+      "nip": 987654,
+      "nama": "Rina Mulyani"
+    },
+    {
+      "nip": 982736,
+      "nama": "Gasti Yulianti"
+    },
+    {
+      "nip": 892736,
+      "nama": "Eka Permadi"
+    },
+    {
+      "nip": 827263,
+      "nama": "Jane Laksmiwati"
+    },
+    {
+      "nip": 718273,
+      "nama": "Cornelia Prastuti"
+    },
+    {
+      "nip": 615736,
+      "nama": "Wardi Lazuardi"
+    },
+    {
+      "nip": 782736,
+      "nama": "Caket Sihombing"
+    },
+    {
+      "nip": 129374,
+      "nama": "Farhunnisa Suryatmi"
+    },
+    {
+      "nip": 287631,
+      "nama": "Kusuma Habibi"
+    }
+  ],
   "pab_reekspor": [
     {
       "nobarang": 1001,
@@ -52,6 +94,60 @@
       "nosppbmcp": "2394873289",
       "tglsppbmcp": "12-11-2021",
       "kodebiling":"Bill 3402344"
+    }
+  ],
+  "pab_peng_barexcn_detail": [
+    {
+      "seribarang": 9120389021,
+      "hscode": "j3239h3",
+      "uraianbarang": "PART 8dh23b23",
+      "negaraasal": "SG",
+      "jumlahkemasan": "AJ",
+      "idpemberitahu": 100128394,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "123456789",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 478293"
+    },
+    {
+      "seribarang": 9120389021,
+      "hscode": "j3239h3",
+      "uraianbarang": "PART 8dh23b23",
+      "negaraasal": "SG",
+      "jumlahkemasan": "AJ",
+      "idpemberitahu": 100128394,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "123456789",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 478293"
+    },
+    {
+      "seribarang": 48293049023,
+      "hscode": "k3239h3",
+      "uraianbarang": "PART 8dh23b23",
+      "negaraasal": "SG",
+      "jumlahkemasan": "AJ",
+      "idpemberitahu": 300128394,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "123456789",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 478293"
+    },
+    {
+      "seribarang": 79302938492,
+      "hscode": "a3239h3",
+      "uraianbarang": "PART 8dh23b23",
+      "negaraasal": "SG",
+      "jumlahkemasan": "AJ",
+      "idpemberitahu": 200128394,
+      "namapen": "Jane Doe",
+      "alampen": "Kebayoran Lama",
+      "nosppbmcp": "123456789",
+      "tglsppbmcp": "12-11-2021",
+      "kodebiling":"Bill 478293"
     }
   ],
   "comments": [
