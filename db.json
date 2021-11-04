@@ -70,7 +70,7 @@
   "pab_peng_barexcn": [
     {
       "nobarang": 1001,
-      "idpemberitahu": 100128394,
+      "idpemberitahu": "100128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
@@ -79,7 +79,7 @@
     },
     {
       "nobarang": 1002,
-      "idpemberitahu": 200128394,
+      "idpemberitahu": "200128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "34930493934",
@@ -88,7 +88,7 @@
     },
     {
       "nobarang": 1003,
-      "idpemberitahu": 300128394,
+      "idpemberitahu": "300128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "2394873289",
@@ -98,12 +98,12 @@
   ],
   "pab_peng_barexcn_detail": [
     {
-      "seribarang": 9120389021,
+      "seribarang": "9120389021",
       "hscode": "j3239h3",
       "uraianbarang": "PART 8dh23b23",
       "negaraasal": "SG",
       "jumlahkemasan": "AJ",
-      "idpemberitahu": 100128394,
+      "idpemberitahu": "100128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
@@ -111,12 +111,12 @@
       "kodebiling":"Bill 478293"
     },
     {
-      "seribarang": 9120389021,
+      "seribarang": "9120389021",
       "hscode": "j3239h3",
       "uraianbarang": "PART 8dh23b23",
       "negaraasal": "SG",
       "jumlahkemasan": "AJ",
-      "idpemberitahu": 100128394,
+      "idpemberitahu": "100128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
@@ -124,12 +124,12 @@
       "kodebiling":"Bill 478293"
     },
     {
-      "seribarang": 48293049023,
+      "seribarang": "48293049023",
       "hscode": "k3239h3",
       "uraianbarang": "PART 8dh23b23",
       "negaraasal": "SG",
       "jumlahkemasan": "AJ",
-      "idpemberitahu": 300128394,
+      "idpemberitahu": "300128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
@@ -137,12 +137,12 @@
       "kodebiling":"Bill 478293"
     },
     {
-      "seribarang": 79302938492,
+      "seribarang": "79302938492",
       "hscode": "a3239h3",
       "uraianbarang": "PART 8dh23b23",
       "negaraasal": "SG",
       "jumlahkemasan": "AJ",
-      "idpemberitahu": 200128394,
+      "idpemberitahu": "200128394",
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
