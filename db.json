@@ -74,6 +74,8 @@
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "123456789",
+      "kodestatus":"BARANG SEDANG DALAM PENYIAPAN OLEH PENYELENGGARA POS",
+      "nippdtt":"827263",
       "tglsppbmcp": "12-11-2021",
       "kodebiling":"Bill 478293"
     },
@@ -83,6 +85,8 @@
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "34930493934",
+      "kodestatus":"BARANG AKAN DIPERIKSA FISIK, MENUNGGU PENYIAPAN BARANG OLEH PENYELENGGARA POS",
+      "nippdtt":"287631",
       "tglsppbmcp": "12-11-2021",
       "kodebiling":"Bill 83923"
     },
@@ -92,6 +96,8 @@
       "namapen": "Jane Doe",
       "alampen": "Kebayoran Lama",
       "nosppbmcp": "2394873289",
+      "kodestatus":"BARANG DALAM PEMERIKSAAN FISIK OLEH PENYELENGGARA POS",
+      "nippdtt":"129374",
       "tglsppbmcp": "12-11-2021",
       "kodebiling":"Bill 3402344"
     }
