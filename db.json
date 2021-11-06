@@ -71,7 +71,7 @@
     {
       "nobarang": 1001,
       "namaPemberitahu": "100128394",
-      "namaPenerimaerima": "Jane Doe",
+      "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "123456789",
       "kodestatus":"BARANG SEDANG DALAM PENYIAPAN OLEH PENYELENGGARA POS",
@@ -82,7 +82,7 @@
     {
       "nobarang": 1002,
       "namaPemberitahu": "200128394",
-      "namaPenerimaerima": "Jane Doe",
+      "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "34930493934",
       "kodestatus":"BARANG AKAN DIPERIKSA FISIK, MENUNGGU PENYIAPAN BARANG OLEH PENYELENGGARA POS",
@@ -93,7 +93,7 @@
     {
       "nobarang": 1003,
       "namaPemberitahu": "300128394",
-      "namaPenerimaerima": "Jane Doe",
+      "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "2394873289",
       "kodestatus":"BARANG DALAM PEMERIKSAAN FISIK OLEH PENYELENGGARA POS",
