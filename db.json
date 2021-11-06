@@ -45,7 +45,7 @@
     {
       "nobarang": 1001,
       "tanggalbarang": "12-11-2021",
-      "namapemb":"Jhon Doe",
+      "namaPemberitahu":"Jhon Doe",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "stater":"OK"
@@ -53,7 +53,7 @@
     {
       "nobarang": 1002,
       "tanggalbarang": "13-11-2021",
-      "namapemb":"Jhon Doe",
+      "namaPemberitahu":"Jhon Doe",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebagusan",
       "stater":"OK"
@@ -61,7 +61,7 @@
     {
       "nobarang": 1003,
       "tanggalbarang": "14-11-2021",
-      "namapemb":"Jhon Doe",
+      "namaPemberitahu":"Jhon Doe",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Tanah Tinggi",
       "stater":"OK"
@@ -70,7 +70,7 @@
   "pab_peng_barexcn": [
     {
       "nobarang": 1001,
-      "namaPemberitahu": "100128394",
+      "namaPemberitahueritahu": "100128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "123456789",
@@ -81,7 +81,7 @@
     },
     {
       "nobarang": 1002,
-      "namaPemberitahu": "200128394",
+      "namaPemberitahueritahu": "200128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "34930493934",
@@ -92,7 +92,7 @@
     },
     {
       "nobarang": 1003,
-      "namaPemberitahu": "300128394",
+      "namaPemberitahueritahu": "300128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "2394873289",
