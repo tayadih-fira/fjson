@@ -46,60 +46,60 @@
       "nobarang": 1001,
       "tanggalbarang": "12-11-2021",
       "namapemb":"Jhon Doe",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
       "stater":"OK"
     },
     {
       "nobarang": 1002,
       "tanggalbarang": "13-11-2021",
       "namapemb":"Jhon Doe",
-      "namapen": "Jane Doe",
-      "alampen": "Kebagusan",
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebagusan",
       "stater":"OK"
     },
     {
       "nobarang": 1003,
       "tanggalbarang": "14-11-2021",
       "namapemb":"Jhon Doe",
-      "namapen": "Jane Doe",
-      "alampen": "Tanah Tinggi",
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Tanah Tinggi",
       "stater":"OK"
     }
   ],
   "pab_peng_barexcn": [
     {
       "nobarang": 1001,
-      "idpemberitahu": "100128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "123456789",
+      "namaPemberitahu": "100128394",
+      "namaPenerimaerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "123456789",
       "kodestatus":"BARANG SEDANG DALAM PENYIAPAN OLEH PENYELENGGARA POS",
       "nippdtt":"827263",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 478293"
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 478293"
     },
     {
       "nobarang": 1002,
-      "idpemberitahu": "200128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "34930493934",
+      "namaPemberitahu": "200128394",
+      "namaPenerimaerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "34930493934",
       "kodestatus":"BARANG AKAN DIPERIKSA FISIK, MENUNGGU PENYIAPAN BARANG OLEH PENYELENGGARA POS",
       "nippdtt":"287631",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 83923"
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 83923"
     },
     {
       "nobarang": 1003,
-      "idpemberitahu": "300128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "2394873289",
+      "namaPemberitahu": "300128394",
+      "namaPenerimaerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "2394873289",
       "kodestatus":"BARANG DALAM PEMERIKSAAN FISIK OLEH PENYELENGGARA POS",
       "nippdtt":"129374",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 3402344"
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 3402344"
     }
   ],
   "pab_peng_barexcn_detail": [
@@ -114,11 +114,11 @@
       "kodesatuan": "MAJ",
       "jumlahsatuan": "1",
       "idpemberitahu": "100128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "123456789",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 478293"
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "123456789",
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 478293"
     },
     {
       "seribarang": "9120389021",
@@ -131,11 +131,11 @@
       "kodesatuan": "MAJ",
       "jumlahsatuan": "1",
       "idpemberitahu": "100128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "123456789",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 478293"
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "123456789",
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 478293"
     },
     {
       "seribarang": "48293049023",
@@ -148,11 +148,11 @@
       "kodesatuan": "MAJ",
       "jumlahsatuan": "1",
       "idpemberitahu": "300128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "123456789",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 478293"
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "123456789",
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 478293"
     },
     {
       "seribarang": "79302938492",
@@ -165,11 +165,11 @@
       "kodesatuan": "MAJ",
       "jumlahsatuan": "1",
       "idpemberitahu": "200128394",
-      "namapen": "Jane Doe",
-      "alampen": "Kebayoran Lama",
-      "nosppbmcp": "123456789",
-      "tglsppbmcp": "12-11-2021",
-      "kodebiling":"Bill 478293"
+      "namaPenerima": "Jane Doe",
+      "alamatPenerima": "Kebayoran Lama",
+      "noSppbmcp": "123456789",
+      "tglSppbmcp": "12-11-2021",
+      "kdBilling":"Bill 478293"
     }
   ],
   "profile": {
