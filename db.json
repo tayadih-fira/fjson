@@ -70,7 +70,7 @@
   "pab_peng_barexcn": [
     {
       "nobarang": 1001,
-      "namaPemberitahueritahu": "100128394",
+      "namaPemberitahu": "100128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "123456789",
@@ -81,7 +81,7 @@
     },
     {
       "nobarang": 1002,
-      "namaPemberitahueritahu": "200128394",
+      "namaPemberitahu": "200128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "34930493934",
@@ -92,7 +92,7 @@
     },
     {
       "nobarang": 1003,
-      "namaPemberitahueritahu": "300128394",
+      "namaPemberitahu": "300128394",
       "namaPenerima": "Jane Doe",
       "alamatPenerima": "Kebayoran Lama",
       "noSppbmcp": "2394873289",
